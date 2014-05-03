@@ -23,7 +23,16 @@ this):
 On other operating systems, you can use pip_ to install lxml (though you might
 have to install libxml and the Python headers first).
 
-dryscrape
+pip
+---
+If you already have python pip available on your system
+
+::
+  
+  $ pip install dryscrape
+  
+
+Build from source
 ---------
 
 First, get a copy of dryscrape_ using Git:
